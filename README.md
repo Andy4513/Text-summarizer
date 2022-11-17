@@ -8,14 +8,14 @@ The project contains 4 parts as follows:
 
 Scarpe and collect news articles from NewsWeek
 
-#### Part 1
+#### Part 2
 
 Perform extractive summarization on collected articles
 
-#### Part 1
+#### Part 3
 
 Perform abstractive summarization on collected articles
 
-#### Part 1
+#### Part 4
 
 Comparing and analyzing the differences between the two kinds of summaries
